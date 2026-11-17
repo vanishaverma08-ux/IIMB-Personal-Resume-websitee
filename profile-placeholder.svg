@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 750" role="img" aria-labelledby="title desc">
+  <title id="title">Profile photo placeholder</title>
+  <desc id="desc">A soft lavender and peach abstract placeholder with the letter V.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#eee8ff"/><stop offset="1" stop-color="#ffe9df"/></linearGradient>
+  </defs>
+  <rect width="600" height="750" fill="url(#bg)"/>
+  <circle cx="300" cy="275" r="125" fill="#fffdfb" opacity=".72"/>
+  <path d="M95 690c20-150 95-225 205-225s185 75 205 225" fill="#fffdfb" opacity=".72"/>
+  <text x="300" y="320" text-anchor="middle" font-family="Georgia,serif" font-size="150" fill="#8c70ce">V</text>
+  <text x="300" y="710" text-anchor="middle" font-family="Arial,sans-serif" font-size="22" letter-spacing="5" fill="#625b78">ADD YOUR PHOTO</text>
+</svg>
